@@ -7,7 +7,7 @@ PROG8431 Data Analysis - Workshop B: **K-Means Clustering** on the AI4I 2020 Pre
 | Name | Student ID |
 | --- | --- |
 | Davisen Veerasamy | 8899632 |
-| Carlos Gutierrez | 9118300 |
+| Carlos Gutierrez | 9118309 |
 | Nnamdi Ikengah | 9085175 |
 
 ## What's in the repo
